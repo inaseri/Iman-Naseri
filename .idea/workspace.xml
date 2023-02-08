@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="995d7e78-404b-42d6-95a7-0be6530b19be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/Iman-Naseri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/emrooz-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/signal-ads-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/tamaddon-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/app-store-download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brain-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/contant-us-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/fav-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/feature-bollet-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/footer-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/google-play-download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hero-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/maple-dating-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/maple-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/mobile-download-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/mobile-view.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/people-love-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/privacy-ico.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/assets/css/style.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/privacy.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="283BAdSQ0E9mzIUA5rSCIQJJ7SH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/iman/Documents/Html/MapleDatingWebsite/assets/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/verifiy" />
+      <recent name="$PROJECT_DIR$/assets/img/terms" />
+      <recent name="$PROJECT_DIR$/assets/img/privacy" />
+      <recent name="$PROJECT_DIR$/assets/img/testimonials" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="995d7e78-404b-42d6-95a7-0be6530b19be" name="Changes" comment="" />
+      <created>1650435246867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650435246867</updated>
+      <workItem from="1650435248305" duration="11193000" />
+      <workItem from="1650580241513" duration="321000" />
+      <workItem from="1650580564901" duration="4802000" />
+      <workItem from="1653916938894" duration="1674000" />
+      <workItem from="1654009351239" duration="1083000" />
+      <workItem from="1654095734469" duration="3827000" />
+      <workItem from="1654101369651" duration="54000" />
+      <workItem from="1655406676972" duration="1018000" />
+      <workItem from="1655704293434" duration="2000" />
+      <workItem from="1655827019794" duration="382000" />
+      <workItem from="1675846539159" duration="9130000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add privacy page.">
+      <created>1650584732763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650584732763</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add verify account page">
+      <created>1653918324153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653918324153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add terms page &#10;Add some changes.">
+      <created>1654099160295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654099160295</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change not verification email message.">
+      <created>1655406824196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655406824196</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add privacy page." />
+    <MESSAGE value="Add verify account page" />
+    <MESSAGE value="Add terms page &#10;Add some changes." />
+    <MESSAGE value="Change not verification email message." />
+    <option name="LAST_COMMIT_MESSAGE" value="Change not verification email message." />
+  </component>
+</project>

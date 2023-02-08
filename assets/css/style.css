@@ -1,0 +1,168 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background: #1F1F1F;
+}
+
+
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 90px;
+    background-color: #2D2F31;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    text-align: center;
+}
+
+.sidebar a {
+    display: block;
+    color: #E3E3E3;
+    padding: 8px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.sidebar span {
+    display: block;
+    color: #E3E3E3;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.sidebar a.active {
+    color: #c2e7ff;
+}
+
+.sidebar i.active {
+    color: #c2e7ff;
+}
+
+.sidebar span.active {
+    color: #c2e7ff;
+}
+
+.sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+    margin-right: 110px;
+}
+
+.banner-image {
+    background: url("https://lh3.googleusercontent.com/1g_8dMsxYAfoZ_VS338syoSlyVpl5yD9Ho5eV7clDTqPGwaKElIciZTvzvxZeaM_-dE3vYWh6oZ4FyuUg3bRo21f6Ue56_ADwSBmh6kasSKS3EA5gQE=w2400-rj");
+    width: 100%;
+    height: 500px;
+    border-radius: 24px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.banner-image h1 {
+    font-weight: bolder;
+    color: #E3E3E3;
+    font-size: 100px;
+}
+
+.banner-image h3 {
+    color: #E3E3E3;
+    font-size: 25px;
+}
+
+h2 {
+    font-weight: bolder;
+    color: #E3E3E3;
+    font-size: 35px;
+}
+
+h3 {
+    font-weight: normal;
+    color: #E3E3E3;
+    font-size: 20px;
+}
+
+p {
+    font-weight: bold;
+    color: #E3E3E3;
+    font-size: 12px;
+}
+
+.author-image {
+    border: 1px solid #E3E3E3;
+    border-radius: 50%
+}
+
+.display-flex {
+    display: flex;
+}
+
+.margin-img {
+    margin-right: 24px;
+}
+
+
+
+@media screen and (max-width: 700px) {
+    .sidebar {
+        display: none;
+    }
+
+
+    .content {
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+
+
+    .banner-image h1 {
+        font-weight: bolder;
+        color: #E3E3E3;
+        font-size: 50px;
+    }
+
+    .banner-image h3 {
+        color: #E3E3E3;
+        font-size: 15px;
+    }
+
+    h2 {
+        font-weight: bolder;
+        color: #E3E3E3;
+        font-size: 30px;
+    }
+
+    h3 {
+        font-weight: bolder;
+        color: #E3E3E3;
+        font-size: 20px;
+    }
+
+    p {
+        font-weight: bold;
+        color: #E3E3E3;
+        font-size: 10px;
+    }
+
+    .display-flex {
+        display: block;
+        text-align: center;
+    }
+
+
+    .margin-img {
+        margin: auto;
+    }
+}
